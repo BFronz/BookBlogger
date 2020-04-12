@@ -1,6 +1,6 @@
 ## Google Books
 
-Book blogger. 
+Book blogger. Post book, title, synoposis. Save posts & delete posts. 
 
 
 ```
