@@ -9,7 +9,7 @@ Run  on command line: npm start
 ```
 
 ### Installing
-Clone this repo to your local machine using https://github.com/BFronz/googlebooks.git
+Clone this repo to your local machine using https://github.com/BFronz/BookBlogger.git
  
 ```
 npm install package.json
